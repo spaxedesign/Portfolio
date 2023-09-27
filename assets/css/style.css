@@ -135,7 +135,7 @@ textarea:focus{
     background-color: black;
     color: #f5f5f5;
     font-size: larger;
-    font-family: CustomFont;
+    font-family: 'Inter', sans-serif;
     border-radius: 8px;
     cursor: pointer;
     box-shadow: 0px 1px 25px 1px #4e4e4e3a;
@@ -159,6 +159,9 @@ textarea:focus{
     }
     .div-info{
         max-width: 100%;
+    }
+    .div-imgsocials{
+        margin-top: 35px;
     }
 }
 
