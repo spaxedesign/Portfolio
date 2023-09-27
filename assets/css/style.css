@@ -41,6 +41,9 @@ body{
 .div-info{   
     max-width: 50%;  
 }
+.instagram{
+    margin-bottom: 4px;
+}
 .div-imgsocials{   
     align-items: flex-end
 }
