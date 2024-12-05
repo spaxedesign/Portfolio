@@ -11,15 +11,24 @@ body{
     background-color:  #2C3639;
     color: #DCD7C9 !important;
 }
+
+h1{
+    font-size: 18;
+}
+
+a{
+    text-decoration: none;
+    color: #dfd6bb;
+    transition: all 0.4s; 
+}
+
 .page{
     margin-left: 20%;
     margin-right: 20%; 
     margin-top: 0px !important;
     position: relative;  
 }
-h1{
-    font-size: 18;
-}
+
 .navbar{
     margin-top: 0;
     background-color: #f5f5f5;
@@ -86,11 +95,7 @@ transform: scale(1.1);
     justify-content: space-between;
     margin-bottom: 8px;
 }
-a{
-    text-decoration: none;
-    color: black;
-    transition: all 0.4s; 
-}
+
 a:hover{
     text-decoration: line-through;
     cursor: pointer;
